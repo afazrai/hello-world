@@ -1,3 +1,3 @@
 # hello-world
 Repository test
-Hi world, calling from another isekai~
+Hi world, calling from another world
